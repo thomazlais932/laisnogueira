@@ -1,0 +1,19 @@
+TRABALHO 3 DE PROGRAMAÇÃO - Lais Nogueira Thomaz
+1A - Python, Java e C são três linguagens de programação populares, cada uma com suas próprias características e usos específicos. Aqui está uma visão geral das diferenças entre elas:
+Python: Interpretação e Compilação: Python é uma linguagem interpretada, o que significa que o código-fonte é executado diretamente pelo interpretador Python, linha por linha. No entanto, Python também pode ser compilado para bytecode para melhorar o desempenho. Facilidade de Aprendizado: Python é frequentemente elogiado por sua sintaxe limpa e legibilidade, o que o torna uma ótima opção para iniciantes. Versatilidade: Python é conhecido por sua versatilidade. É usado em uma ampla gama de aplicações, desde desenvolvimento web até análise de dados, automação de tarefas, inteligência artificial e muito mais. Tipagem Dinâmica: Python é uma linguagem de tipagem dinâmica, o que significa que você não precisa declarar o tipo de variável ao criá-la.
+Já a Java, compilação e interpretação,pois é uma linguagem compilada que é convertida para bytecode e depois executada em uma máquina virtual Java (JVM). Isso permite que o código Java seja executado em qualquer plataforma que tenha uma JVM. Ademais, tem orientação e objetos, pois a java é uma linguagem fortemente orientada a objetos, onde tudo é um objeto. Ela segue o paradigma de programação orientada a objetos de forma estrita. Como também possui, segurança e portabilidade, pois é projetado com segurança e portabilidade em mente. O uso da JVM permite que o código Java seja executado em qualquer sistema que tenha uma JVM instalada, o que contribui para sua portabilidade. Além disso, tem
+ampla adoção corporativa: Java é amplamente adotado em empresas e organizações para o desenvolvimento de aplicativos empresariais, servidores de aplicativos, aplicativos móveis Android, entre outros. Eficiência e Controle: C é uma linguagem de programação de baixo nível que oferece controle direto sobre a memória e os recursos do sistema. Isso a torna ideal para o desenvolvimento de sistemas operacionais, drivers de dispositivo e aplicativos de alto desempenho.
+Proximidade ao Hardware: C está mais próximo do hardware do que Python e Java, o que significa que é mais eficiente em termos de uso de recursos e geralmente oferece melhor desempenho para tarefas intensivas em recursos.
+Portabilidade Limitada: Embora seja possível escrever código C portável, ele não é tão portátil quanto Java. O código C geralmente precisa ser adaptado para diferentes plataformas e sistemas operacionais. Tipagem Estática: C é uma linguagem de tipagem estática, o que significa que os tipos de variáveis devem ser declarados antes de serem usados.
+Em resumo, Python é conhecido por sua simplicidade e versatilidade, Java é valorizado por sua portabilidade e segurança, enquanto C é preferido por seu controle direto sobre o hardware e sua eficiência. A escolha entre elas depende dos requisitos do projeto, das preferências pessoais e do contexto de desenvolvimento.
+
+Código para somar números nas diferentes linguagens:
+Python
+# Define os dois números a serem somados
+
+serem somados int num1 = 10;
+int num2 = 20;
+// Soma os dois números int soma = num1 + num2;
+// Exibe o resultado
+printf("A soma é: %d\n", soma);
+return 0; }
